@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "05B0A21746DC66C488DF2882D3F1F1F7",
+	"FriendlyName": "Fart",
+	"Description": "Add your summary here",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/f-a-r-t-forward-aerial-rapid-transit",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"CfUgcId": 1574762,
+	"AutoCookingType": "All"
+}
